@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [segmentio/showable](http://github.com/segmentio/showable). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/segmentio-showable`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # showable
 
 Mixin for views to add `show` and `hide` methods. Used by things like dialogs and overlays

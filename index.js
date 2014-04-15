@@ -1,4 +1,4 @@
-var after = require('after-transition').once;
+var after = require('yields-after-transition').once;
 
 /**
  * Hide the view
