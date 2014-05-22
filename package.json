@@ -1,5 +1,6 @@
 {
   "name": "segmentio-showable",
+  "version": "0.0.0",
   "description": "Make a view showable and hideable",
   "dependencies": {
     "yields-after-transition": "git://github.com/npmcomponent/yields-after-transition.git",
